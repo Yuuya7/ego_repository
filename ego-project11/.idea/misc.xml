@@ -5,13 +5,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/ego-eureka01/pom.xml" />
-        <option value="$PROJECT_DIR$/ego-manager01/pom.xml" />
-        <option value="$PROJECT_DIR$/ego-rest01/pom.xml" />
-        <option value="$PROJECT_DIR$/ego-zuul01/pom.xml" />
-        <option value="$PROJECT_DIR$/ego-portal01/pom.xml" />
-        <option value="$PROJECT_DIR$/ego-search/pom.xml" />
-        <option value="$PROJECT_DIR$/ego-sso01/pom.xml" />
       </list>
     </option>
   </component>

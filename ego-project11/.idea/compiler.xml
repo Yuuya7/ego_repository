@@ -6,15 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ego-sso01" />
         <module name="ego-zuul01" />
-        <module name="ego-manager01" />
         <module name="ego-search01" />
         <module name="ego-rest01" />
         <module name="ego-base" />
         <module name="ego-portal01" />
         <module name="ego-eureka02" />
         <module name="ego-eureka01" />
-        <module name="ego-sso01" />
+        <module name="ego-manager01" />
       </profile>
     </annotationProcessing>
   </component>

@@ -11,6 +11,12 @@
         <module>ego-base</module>
         <module>ego-eureka02</module>
         <module>ego-search01</module>
+        <module>ego-eureka01</module>
+        <module>ego-manager01</module>
+        <module>ego-rest01</module>
+        <module>ego-sso01</module>
+        <module>ego-portal01</module>
+        <module>ego-zuul01</module>
     </modules>
     <packaging>pom</packaging>
 
