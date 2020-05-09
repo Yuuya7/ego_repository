@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eed38fe0-73bf-4559-a054-8972f7f1b94c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Java/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\Study\Java\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bCeCAjmXGEm7SZX001X2X2mV85" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.cloud.ego.sso.config" />
+      <recent name="cn.cloud.ego.base.vo" />
+      <recent name="cn.cloud.ego.search.service.impl" />
+      <recent name="cn.cloud.ego.search.config" />
+      <recent name="cn.cloud.ego.base.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\Idea\workspace\ego-project11\ego-base\src\main\java\cn\cloud\ego\base\mapper" />
+      <recent name="D:\Study\Idea\workspace\ego-project11\ego-base\src\main\java\cn\cloud\ego\base\pojo" />
+      <recent name="D:\Study\Idea\workspace\ego-project11\ego-sso01\src\main\resources\templates" />
+      <recent name="D:\Study\Idea\workspace\ego-project11\ego-sso01\src\main\resources\static" />
+      <recent name="D:\Study\Idea\workspace\ego-project11\ego-base\src\main\java\cn\cloud\ego\base\vo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EgoSso01Application">
+    <configuration name="EgoEureka01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ego-eureka01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloud.ego.eureka.EgoEureka01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EgoEureka02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ego-eureka02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloud.ego.eureka.EgoEureka02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EgoManager01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ego-manager01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloud.ego.manager.EgoManager01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EgoPortal01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ego-portal01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloud.ego.portal.EgoPortal01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EgoRest01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ego-rest01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloud.ego.rest.EgoRest01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EgoSearch01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ego-search01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloud.ego.search.EgoSearch01Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EgoSso01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ego-sso01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloud.ego.sso.EgoSso01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EgoZuul01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ego-zuul01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cloud.ego.zuul.EgoZuul01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EgoEureka01Application" />
+      <item itemvalue="Spring Boot.EgoEureka02Application" />
+      <item itemvalue="Spring Boot.EgoManager01Application" />
+      <item itemvalue="Spring Boot.EgoPortal01Application" />
+      <item itemvalue="Spring Boot.EgoRest01Application" />
+      <item itemvalue="Spring Boot.EgoSearch01Application" />
+      <item itemvalue="Spring Boot.EgoZuul01Application" />
+      <item itemvalue="Spring Boot.EgoSso01Application" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@561b1dcd" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eed38fe0-73bf-4559-a054-8972f7f1b94c" name="Default Changelist" comment="" />
+      <created>1588140372313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588140372313</updated>
+      <workItem from="1588140376006" duration="10211000" />
+      <workItem from="1588209355045" duration="9271000" />
+      <workItem from="1588226400548" duration="10435000" />
+      <workItem from="1589007144195" duration="1294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
